@@ -1,0 +1,31 @@
+.slide {
+  /* Scale images up to fill screen */
+  width: 100%;
+}
+
+/* Color Themes */
+/* Colors from https://clrs.cc/ */
+
+.sonic {
+  background-color: #0074D9;
+  color: #FFDC00;
+}
+
+.knuckles {
+  background-color: #FF4136;
+  color: #FFFFFF;
+}
+
+.tails {
+  background-color: #FF851B;
+  color: #FFFFFF;
+}
+
+.amy {
+  background-color: #F012BE;
+  color: #ffffff;
+}
+
+.plain {
+  background-color: #FFFFFF;
+}
