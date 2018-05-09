@@ -20,4 +20,8 @@ I'm a consulting engineer at Red Hat Open Innovation Labs.
 
 ---
 
+# These actually kind of work!
+
+---
+
 ![A messy drawing of Sonic with the text 'Gotta prototype fast' at the top.](img/prototype-fast.jpg)
