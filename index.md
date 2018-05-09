@@ -8,16 +8,16 @@ I'm a consulting engineer at Red Hat Open Innovation Labs.
 
 ---
 
-![sonic](img/sonic.jpg)
+![Sonic the Hedgehog box art](img/sonic.jpg)
 
 ---
 
-![sanic](img/sanic.png)
+![Messy drawing of Sonic](img/sanic.png)
 
 ---
 
-![fast](img/fast.gif)
+![Another messy drawing of Sonic, this one with the text 'Gotta go fast' at the top.](img/fast.gif)
 
 ---
 
-![prototype fast](img/prototype-fast.jpg)
+![A messy drawing of Sonic with the text 'Gotta prototype fast' at the top.](img/prototype-fast.jpg)
