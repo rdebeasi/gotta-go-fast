@@ -15,3 +15,6 @@ Original author unknown
 I drew this. I'm sorry.
 MIT Licensed
 
+## got-through.png
+http://www.androidrundown.com/app-rundown/sonic-hedgehog-2-review/
+(C) Sega

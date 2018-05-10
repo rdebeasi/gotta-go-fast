@@ -3,7 +3,7 @@
   width: 100%;
 }
 
-/* Color Themes */
+/* Slide Colors */
 /* Colors from https://clrs.cc/ */
 
 .sonic {
@@ -26,6 +26,36 @@
   color: #ffffff;
 }
 
+.knuckles,
+.tails,
+.amy {
+  color: #ffffff;
+}
+
+.knuckles a,
+.tails a,
+.amy a {
+  color: #ffffff;
+}
+
+.sonic a {
+  color: #FFDC00;
+}
+
+.knuckles a:hover,
+.tails a:hover,
+.amy a:hover {
+  color: #DDDDDD;
+}
+
+.sonic a:hover {
+  color: #FFFFFF;
+}
+
 .plain {
   background-color: #FFFFFF;
+}
+
+.full .slide {
+  padding: 0;
 }
