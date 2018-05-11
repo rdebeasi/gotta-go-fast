@@ -11,10 +11,12 @@ Author: 0nyxheart
 http://knowyourmeme.com/photos/506223-gotta-go-fast
 Original author unknown
 
-## prototype-fast.jpg
-I drew this. I'm sorry.
-MIT Licensed
-
 ## got-through.png
 http://www.androidrundown.com/app-rundown/sonic-hedgehog-2-review/
 (C) Sega
+
+##jiffy.png
+https://www.pixilart.com/art/in-a-jiffy-34bc43e3ec05d4b
+
+##lose-rings.jpg
+https://aproximatelytoomanygames.wordpress.com/2014/05/29/sonic-the-hedgehog-sega-genesis/
